@@ -1,7 +1,8 @@
 repo_name: terasa/tryout
 report_id: 6409c9139b86ebfecdd8a865d99bd141
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T14:06:50+00:00'
+timestamp: '2024-01-04T14:55:29+00:00'
 requested_by: psyeugenic
 provider: github
 branch: dev
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -43,6 +47,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: Erlang
   description: A programming language used to build massively scalable soft real-time
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1004/cbdf77412da183e43d41c0c0f9a7005a.jpeg
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -74,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: Perl
   description: Highly capable, feature-rich programming language with over 26 years
@@ -84,6 +92,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -94,6 +103,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: GNU sed
   description: A non-interactive command-line text editor
@@ -103,6 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/3635/default_6369b655647204026aee2fa41eaa721d27a30528.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -112,6 +123,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: NSIS
   description: Professional open source system to create Windows installers
@@ -119,6 +131,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4728/Box.gif
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -129,6 +142,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
 - name: XSLT
   description: The official Twitter account for the sum of all knowledge, Wikipedia.
@@ -137,4 +151,5 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/terasa/tryout
   detection_source: Repo Metadata
