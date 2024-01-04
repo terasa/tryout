@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 terasa/tryout is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Java](https://www.java.com) – Languages
 - [Erlang](http://www.erlang.org/) – Languages
@@ -14,11 +15,13 @@ terasa/tryout is built on the following main stack:
 - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 terasa/tryout is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1004/cbdf77412da183e43d41c0c0f9a7005a.jpeg' alt='Erlang'/> [Erlang](http://www.erlang.org/) – Languages
@@ -31,14 +34,15 @@ terasa/tryout is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png' alt='Assembly Language'/> [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [terasa/tryout](https://github.com/terasa/tryout)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|11/09/23 <br/>Report generated|
+|14<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -174,4 +178,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
